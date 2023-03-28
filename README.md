@@ -40,7 +40,7 @@ It might also be important to mention that although it seems like Mcqueeb can es
 
 ## Features Implemented
 
-## - [x] 3D World 
+- [x] 3D World 
 With Racetrack and Stadium and audience 
 - [x] Cars
 Features to keep track of for each car
@@ -57,15 +57,15 @@ key)
 
 You should have a logic for Opponent cars motion in the race. It should not be
 the same for all try to make it random.
-## - [x] Collisions
+- [x] Collisions
 Collision between cars reduces health
-## - [x] Fuel Cans
+- [x] Fuel Cans
 Fuel cans are randomly spawned in the racetrack , increases fuel of car. When Fuel runs out, the game finishes with a game over screen
-## - [x] Different Camera Views
+- [x] Different Camera Views
 1. Top down minmap view
 2. Third person view
 3. Dashboard View.
 
 Press C to toggle views
-## - [x] Display (HUD)
+- [x] Display (HUD)
 
